@@ -689,3 +689,28 @@ footer {
     }
 
 }
+
+/* ---------- ABOUT ME ---------- */
+
+#about {
+    padding-top: 70px;
+    padding-bottom: 55px;
+}
+
+#about .section-heading {
+    max-width: 850px;
+    margin-bottom: 0;
+}
+
+#about .section-heading > p {
+    color: #b5bec9;
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-top: 18px;
+}
+
+#about .section-heading > .section-label {
+    color: #58a6ff;
+    font-size: 0.75rem;
+    margin-top: 0;
+}
