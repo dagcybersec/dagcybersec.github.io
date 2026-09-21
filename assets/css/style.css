@@ -693,8 +693,8 @@ footer {
 /* ---------- ABOUT ME ---------- */
 
 #about {
-    padding-top: 70px;
-    padding-bottom: 55px;
+    padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 #about .section-heading {
@@ -713,4 +713,11 @@ footer {
     color: #58a6ff;
     font-size: 0.75rem;
     margin-top: 0;
+}
+#work {
+    padding-top: 45px;
+}
+
+#about .section-heading > p:not(.section-label) {
+    color: #b5bec9;
 }
